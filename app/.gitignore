@@ -1,0 +1,19 @@
+# Ignore the .env file
+.env
+
+# Ignore log files
+*.log
+
+# Ignore system files
+.DS_Store
+
+# Ignore virtual environments
+venv/
+.venv/
+
+# Ignore any compiled Python files
+*.pyc
+__pycache__/
+
+# Ignore any local configuration files
+config.json
